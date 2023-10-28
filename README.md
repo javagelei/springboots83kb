@@ -26,7 +26,7 @@ IDE类型：IDEA、Eclipse都可运行
 
 需要其他项目的话可以支持：java项目定制、文档报告定制
 
-vx：daihq713
+#完整源码获取：请加微信：daihq713
 
 视频演示地址：https://www.bilibili.com/video/BV1LC4y1n7wj/?spm_id_from=333.999.0.0&vd_source=76e44f3e718c764fe04f38440f20ce34
 
